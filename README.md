@@ -17,3 +17,9 @@ This repository contains material related to Udacity's [Data Engineering Nanodeg
 * [Relational Data Models with Postgres](https://github.com/shrikantnaidu/Data-Engineering-By-Udacity/tree/main/Data%20Modeling/Postgres%20notebooks): Understanding the purpose of data modeling, the strengths and weaknesses of relational databases and create schemas and tables in Postgres.
 
 * [NoSQL Data Models with Cassandra](https://github.com/shrikantnaidu/Data-Engineering-By-Udacity/tree/main/Data%20Modeling/Cassandra%20notebooks): Learning when to use non- relational databases based on the data business needs,their strengths and weaknesses and how to create tables in Apache Cassandra.
+
+### Cloud Data Warehouses 
+
+* [Introduction to Data Warehouses](https://github.com/shrikantnaidu/Data-Engineering-By-Udacity/tree/main/Cloud%20Data%20Warehouses/Intro%20to%20Data%20Warehouses): Introduction to Data warehouses,the Cloud and AWS.
+
+* [Data Warehouses on AWS](https://github.com/shrikantnaidu/Data-Engineering-By-Udacity/tree/main/Cloud%20Data%20Warehouses/Implementing%20Data%20Warehouses%20on%20AWS): Implementing a Data Warehouse on AWS
