@@ -23,3 +23,15 @@ This repository contains material related to Udacity's [Data Engineering Nanodeg
 * [Introduction to Data Warehouses](https://github.com/shrikantnaidu/Data-Engineering-By-Udacity/tree/main/Cloud%20Data%20Warehouses/Intro%20to%20Data%20Warehouses): Introduction to Data warehouses,the Cloud and AWS.
 
 * [Data Warehouses on AWS](https://github.com/shrikantnaidu/Data-Engineering-By-Udacity/tree/main/Cloud%20Data%20Warehouses/Implementing%20Data%20Warehouses%20on%20AWS): Implementing a Data Warehouse on AWS
+
+### Data Lakes with Spark 
+
+* [Data Wrangling with Spark](https://github.com/shrikantnaidu/Data-Engineering-By-Udacity/tree/main/Cloud%20Data%20Warehouses/Intro%20to%20Data%20Warehouses): Learning how to use Spark for cleaning and aggregating data.
+
+### Data Pipelines with Airflow
+
+* [Data Pipelines](https://github.com/shrikantnaidu/Data-Engineering-By-Udacity/tree/main/Data%20Pipelines%20with%20Airflow): Learning the basics of data pipelines with airflow.
+
+* [Data Quality](https://github.com/shrikantnaidu/Data-Engineering-By-Udacity/tree/main/Data%20Pipelines%20with%20Airflow/Data%20Quality): Tracking data lineage and setting up data pipeline schedules, partition data to optimize pipelines, investigating Data Quality issues, and write tests to ensure data quality. 
+
+* [Production Data Pipelines](https://github.com/shrikantnaidu/Data-Engineering-By-Udacity/tree/main/Data%20Pipelines%20with%20Airflow/Production%20Data%20Pipelines): Building Data Pipelines with maintainability and reusability in mind along with pipeline monitoring.
